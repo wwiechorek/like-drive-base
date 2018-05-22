@@ -1,0 +1,7 @@
+.text-center {
+  text-align: center;
+}
+.textv-middle {
+  display: table-cell;
+  vertical-align: middle;
+}
